@@ -1,0 +1,101 @@
+body 
+{
+    direction:rtl;
+    width:960px;
+    margin-right: 180px auto;
+    background-image:url(../backgrounds/pexels-photo-315078.jpeg);
+
+}
+h1{
+    font:status-bar;
+    color:#450567;
+    text-align:right;
+    font-size:48pt;
+}
+h2{
+    font:status-bar;
+    color:#B755EB;
+    text-align:right;
+    font-size:36pt;
+}
+ul
+{
+list-style:none;
+}
+nav ul li
+{
+display:inline-block;
+float:right;
+}
+nav ul li a
+{
+display: block;
+background-color: #9B6CB4;
+color: white;
+width: 190px;
+height: 30px;
+padding-top: 10px;
+text-decoration: none;
+text-align: center;
+font:status-bar;
+}
+nav{
+    margin-right:200px;
+}
+#about{
+    font:status-bar;
+    font-size:24px;
+    color:#593E67;
+    margin-top:100px;
+}
+#professional{
+        font:status-bar;
+    font-size:24px;
+    color:#593E67;
+    margin-top:100px;
+}
+#education{
+    font:status-bar;
+    font-size:22px;
+    color:#593E67;
+    margin-top:100px;
+}
+.hobbies ul li{
+    list-style: disc;
+    font:status-bar;
+    font-size:22px;
+    color:#593E67;
+    margin-top:50px;
+    margin-right:200px;
+}
+#shoes{
+    padding:10px;
+    display:block;
+    float:left;
+}
+h3{
+    font:status-bar;
+    font-size:16px;
+    color:#9B6CB4;
+}
+footer{
+    position:absolute;
+    display:block;
+
+}
+footer{
+    position:absolute;
+    display:block;
+    bottom:120px;
+    width:50px;
+    height:50px;
+}
+#instagram{
+     position:absolute;
+    bottom:0
+    width:50px;
+    height:50px;
+}
+
+
+
