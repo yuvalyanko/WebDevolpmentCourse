@@ -1,0 +1,81 @@
+body 
+{
+    direction:rtl;
+    margin:0 auto;
+    width:960;
+    background-image:url(../backgrounds/fundo_ceu.png);
+    background-repeat:repeat-x;
+    
+
+}
+
+h1{
+    margin-top:120px;
+    margin-bottom:30px;
+    color:#61002A;
+    font:status-bar;
+    font-size:40pt;
+    padding-right:15px;
+}
+h2{
+    margin-top:20px;
+    color:#001845;
+    font:status-bar;
+    font-size:22pt;
+    padding-right:15px;
+}
+h3{
+    margin-top:20px;
+    color:#001845;
+    font:status-bar;
+    font-size:24px;
+    margin-right:80px;
+}
+p{
+    margin-top:15px;
+    color:#8C1114;
+    font:status-bar;
+    font-size:18px;
+    margin:10px;
+    padding-right:15px;
+}
+ul li{
+    font:status-bar;
+    list-style:hanging;
+    color:#8C1114;
+    margin-right:100px;
+    margin-bottom:10px;
+
+}
+#mytxt{
+    border:solid 2px black;
+    height:30px;
+    font:status-bar;
+    margin-right:10px;
+    text-align:center;
+}
+form{
+    font:status-bar;
+    margin-top:10px;
+}
+#SendForm{
+    border:solid 2px black;
+    height:35px;
+    width:70px;
+    margin-right:10px;
+    background-color:#F14344;
+    font:status-bar;
+    text-align:center;
+}
+#img{
+    padding-right:1000px;
+    position:absolute;
+}
+#hit {
+    padding-right: 20px;
+    padding-top: 20px;
+    position: absolute;
+}
+ a:hover {  
+  border:5px outset;
+}
