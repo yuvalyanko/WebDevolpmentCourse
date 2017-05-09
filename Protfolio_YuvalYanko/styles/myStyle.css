@@ -1,0 +1,119 @@
+body 
+{
+    direction:rtl;
+    background-image:url(../backgrounds/w538-01-zeta-papier-peint-vinyl-villa-nova.jpeg);
+}
+#container{
+    width:960px;
+    margin:0 auto;
+    background: rgba(255,255,255,0.7);
+    height:auto;
+}
+/* הכותרות באתר*/
+h1{
+    font-family: 'Varela Round', sans-serif;
+    font-size:28pt;
+    color:#8B1870;
+    text-align:center;
+    margin-bottom:30px;
+    padding-top:30px;
+}
+span{
+    color:#A30FA6;
+    font-size:22pt;
+    font-family: 'Varela Round', sans-serif;
+}
+
+h2{
+    font-family: 'Varela Round', sans-serif;
+    color:#A30FA6;
+    font-size:20pt;
+}
+/* פסקאות*/
+p{
+    font-family: 'Varela Round', sans-serif;
+    font-size:20pt;
+    color:black;
+    margin-top:100px;
+    text-align:center;
+}
+#p1{
+    margin-bottom:30px;
+}
+/* תפריט ניווט*/
+nav ul li
+{
+display:inline-block;
+float:right;
+margin-bottom:30px;
+}nav ul li a
+{
+display: block;
+background-color:rgba(255,255,255,0.7);
+color: #500083;
+font-family: 'Varela Round', sans-serif;
+font-size:20pt;
+width: 240px;
+height: 40px;
+padding-top: 10px;
+text-decoration: none;
+text-align: center;
+}
+#img2{
+    margin-right:30px;
+    margin-top:50px;;
+    margin-bottom:40px;
+}
+#img3{
+    margin-right:30px;
+}
+iframe{
+    margin-right:215px;
+    margin-top:50px;;
+    margin-bottom:40px;
+}
+/* תפריט ניווט*/
+nav ul li a.selected {
+                background-color: #C38DCE;
+            }
+
+            nav ul li a:hover {
+                background-color: #F9E9F1;
+            }
+
+            nav ul li a.selected:hover {
+                background-color: #F9E9F1;
+            }
+
+            nav ul li a:active {
+                background-color: #F9E9F1;
+            }
+#instagram{
+    width:50px;
+    height:50px;
+    margin-top:30px;
+    margin-right:440px;
+}#SelfPortrait{
+font-family: 'Varela Round', sans-serif;
+    font-size:14pt;
+    width:150px;
+    margin-right:60px;
+}#linka{
+    text-decoration:none;
+}#yuval{
+    border-radius:50%;
+    padding-right:250px;
+    padding-top:20px;
+}
+#img1 {
+    margin-right: 300px;
+    margin-top:-350px;
+}#movie{
+    margin-right:90px;
+}
+a{
+    text-decoration-line:none;
+}
+audio{
+    margin-right:350px;
+}
